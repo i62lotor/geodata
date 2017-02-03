@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",  
   "style": {
-        "color": "#00FF00"
+        "color": "rgba(255, 0, 0, 0.50)"
       },
   "features": [
     {
