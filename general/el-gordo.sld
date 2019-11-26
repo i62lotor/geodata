@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><sld:StyledLayerDescriptor xmlns="http://www.opengis.net/sld" xmlns:sld="http://www.opengis.net/sld" xmlns:gml="http://www.opengis.net/gml" xmlns:ogc="http://www.opengis.net/ogc" version="1.0.0">
   <sld:NamedLayer>
-    <sld:Name>EL_GORDO</sld:Name>
+    <sld:Name>EL-GORDO-NAVIDAD</sld:Name>
     <sld:UserStyle>
-      <sld:Name>EL_GORDO</sld:Name>
+      <sld:Name>VECES-PREMIADO</sld:Name>
       <sld:FeatureTypeStyle>
         <sld:Name>name</sld:Name>
         <sld:Rule>
@@ -154,9 +154,11 @@
         </sld:Rule>
         <sld:Rule>
           <sld:Name>9</sld:Name>
+          <sld:Title/>
+          <sld:Abstract/>
           <ogc:Filter>
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>VECES_PREMIADO</ogc:PropertyName>
+              <ogc:Literal>VECES_PREMIADO</ogc:Literal>
               <ogc:Literal>9</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
