@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><sld:StyledLayerDescriptor xmlns="http://www.opengis.net/sld" xmlns:sld="http://www.opengis.net/sld" xmlns:gml="http://www.opengis.net/gml" xmlns:ogc="http://www.opengis.net/ogc" version="1.0.0">
   <sld:NamedLayer>
-    <sld:Name>EL-GORDO-NAVIDAD</sld:Name>
+    <sld:Name>EL_GORDO</sld:Name>
     <sld:UserStyle>
-      <sld:Name>VECES-PREMIADO</sld:Name>
+      <sld:Name>EL_GORDO</sld:Name>
       <sld:FeatureTypeStyle>
         <sld:Name>name</sld:Name>
         <sld:Rule>
