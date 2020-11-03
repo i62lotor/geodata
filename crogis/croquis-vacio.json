@@ -1,0 +1,9 @@
+{
+  "version": "0",
+  "urlAppolo": "https://appolo.almerimatik.es/croquizador-demos/api/v1/guardarCroquis",
+  "urlImagen": "https://appolo.almerimatik.es/croquizador-demos/api/v1/guardarImagen",
+  "firma": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn0NZCgcve8pEFPOriMpDSHD+HILd2RWgPDIPhwwSHc7yXed6Ed/EIfagua0Lp9wM6byW33WpFWEDudrpUhGqs0FkJ3R9DZd+gZn9ipuqHaFhs7CimFqcdsFpFtu4JJOM6hxhTHWmFFv9s3CE5Y+uDH6J8sHBbFSQoBT2ZjcEoekkYmq5kKYvBrSOrPmwxExFN1YgzVeXljWqssFogRxlruJgcdvQ7JENmdjsscUB2WdOy3uI17jVh1LbW78osRLLM3qtNs4ADM0TajJa0vATWBH3lXb1I6DOKF+EIzJS7oWRMco/pAbDoyDexaJsyTrLmQdRt7E3XvZZ+iHB9XRfuwIDAQAB",
+  "center":[-4.108249851111274, 36.78709943721478],
+  "zoom":15,
+  "croquis":""
+}

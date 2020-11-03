@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "urlAppolo": "https://appolo.almerimatik.es/croquizador-demo/api/v1/guardarCroquis",
+  "urlImagen": "https://appolo.almerimatik.es/croquizador-demo/api/v1/guardarImagen",
+  "firma": "FIRMA",
+  "croquis": "{\"escenarios\":[{\"nombre\":\"ESCENARIO1\",\"descripcion\":\"\",\"referencePoints\":[{\"id\":\"PTO01\",\"coordinates\":[-4.106635805316117,36.7887737937747]},{\"id\":\"PTO02\",\"coordinates\":[-4.106562355789056,36.7887727178126]}],\"croquisObjects\":[{\"id\":\"AL02271R\",\"category\":\"Vehículos\",\"type\":\"Bicicleta\",\"label\":\"Bici\",\"location\":[{\"id\":\"Medida-PTO01\",\"referencePointId\":\"PTO01\",\"measure\":5.87},{\"id\":\"Medida-PTO02\",\"referencePointId\":\"PTO02\",\"measure\":2.6777}]}]}]}"
+}
