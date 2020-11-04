@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "urlAppolo": "https://appolo.almerimatik.es/croquizador-demo/api/v1/guardarCroquis",
+  "urlImagen": "https://appolo.almerimatik.es/croquizador-demo/api/v1/guardarImagen",
+  "firma": "A4CFD850E0A7B64C2799627632A2CB598CB6E35DEDE44304B6932328A8946A1B",
+  "croquis":"{\"escenarios\":[{\"nombre\":\"ESCENARIO-1\",\"referencePoints\":[{\"id\":\"PTO01\",\"coordinates\":[-4.1083544572628545,36.78716817608345]},{\"id\":\"PTO02\",\"coordinates\":[-4.108249851111274,36.78709943721478]}],\"croquisObjects\":[{\"id\":\"bici\",\"category\":\"Vehículos\",\"type\":\"Bicicleta\",\"color\":\"#376600\",\"location\":[{\"id\":\"Medida-PTO01\",\"referencePointId\":\"PTO01\",\"measure\":5},{\"id\":\"Medida-PTO02\",\"referencePointId\":\"PTO02\",\"measure\":8}],\"observation\":\"\"}]},{\"nombre\":\"ESCENARIO-2\",\"referencePoints\":[{\"id\":\"PTO21\",\"coordinates\":[-4.1079355,36.78716817608345]},{\"id\":\"PTO22\",\"coordinates\":[-4.1078307,36.78709943721478]}],\"croquisObjects\":[{\"id\":\"AL02271R\",\"category\":\"Vehículos\",\"type\":\"Turismo\",\"color\":\"#3766D4\",\"location\":[{\"id\":\"Medida-PTO21\",\"referencePointId\":\"PTO21\",\"measure\":5},{\"id\":\"Medida-PTO22\",\"referencePointId\":\"PTO22\",\"measure\":8}],\"observation\":\"\"}]}]}"
+}
